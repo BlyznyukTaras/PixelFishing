@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="{x:Type Button}" x:Key="StartButton">
+        <Setter Property="Background" Value="Yellow"/>
+        <Setter Property="Width" Value="235"/>
+        <Setter Property="Height" Value="93"/>
+        <Setter Property="BorderThickness" Value="3"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="FontFamily" Value="Pixels"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontSize" Value="90"/>
+    </Style>
+</ResourceDictionary>

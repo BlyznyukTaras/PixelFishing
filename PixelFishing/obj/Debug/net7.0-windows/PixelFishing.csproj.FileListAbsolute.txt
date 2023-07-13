@@ -7,7 +7,6 @@ C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\MainWindow.g.cs
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\App.g.cs
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing_MarkupCompile.cache
-C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing_MarkupCompile.lref
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\MainWindow.baml
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing.g.resources
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +18,5 @@ C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing.pdb
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\PixelFishing.genruntimeconfig.cache
 C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\ref\PixelFishing.dll
+C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\Styles\Buttons.baml
+C:\Users\KREUW\RiderProjects\PixelFishing\PixelFishing\obj\Debug\net7.0-windows\Styles\Other.baml

@@ -4,9 +4,27 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="400">
+        Title="MainWindow" Height="1920" Width="1080">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Buttons.xaml"/>
+                <ResourceDictionary Source="Styles/Other.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
     <Grid>
-        <Label Content="Hello" FontSize="12"></Label>
-        <Button Click="CloseButton_OnClick" Height="100" Width="100" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Button>
+        <Rectangle>
+            <Rectangle.Fill>
+                <SolidColorBrush Color="Orange"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content="Hello" FontSize="24" Foreground="White"/>
+        <Grid Style="{StaticResource StartButtons}">
+            <Button Style="{StaticResource StartButton}" Click="CloseButton_OnClick">
+                <TextBlock Text="Close" VerticalAlignment="Bottom" Margin="0,-25, 0, 0">
+                </TextBlock>
+            </Button>
+        </Grid>
     </Grid>
 </Window>
